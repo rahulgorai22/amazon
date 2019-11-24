@@ -1,7 +1,7 @@
 import java.util.Arrays;
-
 class Solution{
     public static boolean checkIfPair(int[] array, int sum){
+        // Rahul Gorai
         //Using the simple method
         //First sort the array and then check if pair from low and high comes in range
         // Sort - O(nlogn)

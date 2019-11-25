@@ -27,6 +27,13 @@
 
     ```
     Input: array[]= {3,1,8,-9,7}
-    Output : [1,8,-9] - return this subarray
+    Output : true
+    ```
+    Using HashMaps
+7. Find if a contigious subarray with sum 0 is present in the given array(Unsorted with postive and negative elements). - Assume you have multiple subarrays and print the subArray
+
+    ```
+    Input: array[]= {3,1,8,-9,7,5,7,-3,-4}
+    Output : [[1,8,-9],[7,-3,-4]] - return this subarray
     ```
     Using HashMaps

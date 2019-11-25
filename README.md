@@ -37,3 +37,15 @@
     Output : [[1,8,-9],[7,-3,-4]] - return this subarray
     ```
     Using HashMaps
+8. Find the most frequent number in an unsorted Array
+    ```
+    Input: array[]={2,1,8,5,9,5,8,5,8};
+    return - [5,8]
+    ```
+    Use brute force
+9. Find the most frequent number in an unsorted Array
+    ```
+    Input: array[]={2,1,8,5,9,5,8,5,8};
+    return - [5,8]
+    ```
+    Use hash maps

@@ -16,3 +16,17 @@
                 x = 8
     ```
     You can have multiple pairs. - Using Hash Maps.
+5. Find if a contigious subarray with sum 0 is present in the given array(Unsorted with postive and negative elements).
+
+    ```
+    Input: array[]= {3,1,8,-9,7}
+    Output : [1,8,-9] - return this subarray
+    ```
+    Brute Force
+6. Find if a contigious subarray with sum 0 is present in the given array(Unsorted with postive and negative elements).
+
+    ```
+    Input: array[]= {3,1,8,-9,7}
+    Output : [1,8,-9] - return this subarray
+    ```
+    Using HashMaps

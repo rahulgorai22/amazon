@@ -7,3 +7,4 @@ Tree traversals
 3. Level Order Traversal
 4. Print the binary tree vertically - Brute force solution
 5. Print the binary tree vertically - Using level order traversal
+6. Print Vertical sums in the binary tree - Brute force

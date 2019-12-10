@@ -7,6 +7,7 @@ class Solution{
         private int capacity;
         public LRUCache(int n){
             this.map=new LinkedHashMap<Integer,Integer>();
+            // Implements Doubly linked list - O(1) for get and put both. 
             this.capacity=n;
         }
         public int get(int x){
